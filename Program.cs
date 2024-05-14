@@ -25,4 +25,4 @@ if (n>0)
 }
 Console.WriteLine(m);
 
-//CALCULADORA V1
+//CALCULADORA V2
